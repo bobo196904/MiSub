@@ -13,7 +13,7 @@ const defaultSettings = {
   mytoken: 'auto',
   profileToken: 'profiles',
   subConverter: 'url.v1.mk',
-  subConfig: 'https://sm.bocai.qzz.io/69.ini',
+  subConfig: 'https://raw.githubusercontent.com/cmliu/ACL4SSR/refs/heads/main/Clash/config/ACL4SSR_Online_Full.ini',
   prependSubName: true,
   NotifyThresholdDays: 3, 
   NotifyThresholdPercent: 90 
